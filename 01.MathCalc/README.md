@@ -3,7 +3,8 @@
 This is a math calculator.
 ## Input
 Strings are passed via an environment var in a special format:
-```10,add,20```
+
+```n1,operator,n2```
 Possible operators:
  - add
  - subtract
