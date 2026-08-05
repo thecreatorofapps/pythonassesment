@@ -2,7 +2,7 @@
 ## Description
 This is a math calculator.
 ## Input
-Strings are passed via an environment var in a special format:
+Strings are passed via STDIN in a special format:
 
 ```n1,operator,n2```
 Possible operators:
