@@ -1,0 +1,3 @@
+# Warning - do not edit this - this is for autograding.
+pytest
+pytest-json-ctrf
